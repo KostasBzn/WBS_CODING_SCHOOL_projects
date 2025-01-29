@@ -3,3 +3,4 @@
 - **Projects**
   - Hangman
   - Data Visualisation with pandas and matplotlib
+  - Gans e-Scooter Weather and Flight Scraper
